@@ -26,4 +26,4 @@ def test_multiplication():
 
 def test_division():
     my_calculator = Calculator()
-    assert my_calculator.division(3, 3) == 1
+    assert my_calculator.division(4, 4) == 1
