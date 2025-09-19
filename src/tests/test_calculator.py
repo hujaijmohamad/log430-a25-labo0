@@ -10,7 +10,7 @@ def test_app():
     my_calculator = Calculator()
     assert my_calculator.get_hello_message() == "== Calculatrice v1.0 =="
 
-# TODO: ajoutez les tests, essaimodif
+# TODO: ajoutez les tests, essaimodif2
 
 def test_addition():
     my_calculator = Calculator()
